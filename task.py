@@ -1,2 +1,2 @@
-def func():
-    return "hello world"
+def my_func():
+    return "Hello Horld"
